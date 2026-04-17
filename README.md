@@ -32,7 +32,6 @@ v-jepa-2-chest-xray/
 ├── notebooks/
 │   ├── 01_setup_environment.ipynb    # Environment setup
 │   └── 02_data_preparation.ipynb      # Data loading & preprocessing
-├── GUIDES.md                          # Personal research notes
 └── README.md                          # This file
 ```
 
@@ -63,4 +62,6 @@ pip install torch torchvision timm pandas numpy scikit-learn matplotlib
 - timm (for V-JEPA 2 model)
 - pandas, numpy, scikit-learn, matplotlib
 
-- pandas, numpy, scikit-learn, matplotlib
+## License
+
+This project is licensed under the MIT License.
