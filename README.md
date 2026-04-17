@@ -1,1 +1,1 @@
-# v-jepa-2-chest-xray-
+# v-jepa-2-chest-xray
