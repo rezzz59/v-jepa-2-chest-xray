@@ -63,27 +63,4 @@ pip install torch torchvision timm pandas numpy scikit-learn matplotlib
 - timm (for V-JEPA 2 model)
 - pandas, numpy, scikit-learn, matplotlib
 
-## Research Timeline
-
-| Phase | Description | Week |
-|-------|-------------|------|
-| 1 | Setup & Foundation | 1-2 |
-| 2 | Linear Probe Baseline | 3-4 |
-| 3 | Full Fine-Tune | 5-6 |
-| 4 | Model Comparison | 7-8 |
-| 5 | Analysis & Ablation | 9-10 |
-| 6 | Paper Writing | 11-14 |
-| 7 | Submission & Revision | 15+ |
-
-## Target Publication
-
-- **SINTA 2** or **Scopus-indexed Journal**
-
-## References
-
-- Assran et al., *"Joint-Embedding Predictive Architecture"*, Meta AI / FAIR, 2025
-- Deng et al., *"Chest X-Ray Images (Pneumonia)"*, Kaggle
-
-## License
-
-This project is licensed under the MIT License.
+- pandas, numpy, scikit-learn, matplotlib
