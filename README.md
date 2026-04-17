@@ -2,7 +2,6 @@
 
 > Fine-tuning V-JEPA 2 pretrained representations for chest X-ray classification (Normal vs Pneumonia detection).
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## About the Project
 
