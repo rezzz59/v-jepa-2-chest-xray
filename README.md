@@ -61,7 +61,3 @@ pip install torch torchvision timm pandas numpy scikit-learn matplotlib
 - PyTorch 2.0+
 - timm (for V-JEPA 2 model)
 - pandas, numpy, scikit-learn, matplotlib
-
-## License
-
-This project is licensed under the MIT License.
